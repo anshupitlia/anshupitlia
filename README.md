@@ -8,6 +8,9 @@ I am **Anshu Pitlia** working as **Sr. Consultant, Developer** at **Thoughtworks
  - 📚 Currently I'm reading राग दरबारी. 
  - 😄 Pronouns: She/Her
  - ⚡  Fun fact: Freelancers originally referred to self-employed, sword-wielding mercenaries: literally “free lancers.”
+ 
+ 
+![Visitor Count](https://profile-counter.glitch.me/anshupitlia/count.svg)
 <!--
 **anshupitlia/anshupitlia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
