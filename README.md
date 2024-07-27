@@ -1,11 +1,10 @@
 ### Hello World! 👋
 
-I am **Anshu Pitlia** working as **Sr. Consultant, Developer** at **Thoughtworks Technologies (I) Pvt Ltd**.
+I am **Anshu Pitlia** working as **Lead. Consultant, Developer** at **Thoughtworks Technologies (I) Pvt Ltd**.
 
- - 🔭 I’m currently working on building and deploying POS software for a retail firm in UK.
- - 🌱 I’m currently revising my skills on DS and Algorithms, started with [AoC challenge](https://adventofcode.com/).
+ - 🔭 I’m currently working on centralized auth system for one of our applications using Auth0.
  - ✍️ I'm also a writer/poet and you can read my views on [Facebook]( https://www.facebook.com/anshu.pitlia/), [Blogger](http://anshupitlia.blogspot.com/) or watch some of my videos on [Youtube](https://www.youtube.com/watch?v=6Ja0RWcgwoI)
- - 📚 Currently I'm reading राग दरबारी. 
+ - 📚 Currently I'm reading People on Platform 5. 
  - 😄 Pronouns: She/Her
  - ⚡  Fun fact: Freelancers originally referred to self-employed, sword-wielding mercenaries: literally “free lancers.”
  
