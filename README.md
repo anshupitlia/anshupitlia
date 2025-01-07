@@ -1,8 +1,8 @@
 ### Hello World! 👋
 
-I am **Anshu Pitlia** working as **Lead. Consultant, Developer** at **Thoughtworks Technologies (I) Pvt Ltd**.
+I am **Anshu Pitlia** an ex-thoughtworker working as *Software Engineer** at **IKEA**.
 
- - 🔭 I’m currently working on centralized auth system for one of our applications using Auth0.
+ - 🔭 I’m currently working on Event Messaging platform.
  - ✍️ I'm also a writer/poet and you can read my views on [Facebook]( https://www.facebook.com/anshu.pitlia/), [Blogger](http://anshupitlia.blogspot.com/) or watch some of my videos on [Youtube](https://www.youtube.com/watch?v=6Ja0RWcgwoI)
  - 📚 Currently I'm reading People on Platform 5. 
  - 😄 Pronouns: She/Her
