@@ -6,7 +6,7 @@ I am **Anshu Pitlia** an ex-thoughtworker working as *Software Engineer** at **I
  - ✍️ I'm also a writer/poet and you can read my views on [Facebook]( https://www.facebook.com/anshu.pitlia/), [Blogger](http://anshupitlia.blogspot.com/) or watch some of my videos on [Youtube](https://www.youtube.com/watch?v=6Ja0RWcgwoI)
  - 📚 Currently I'm reading People on Platform 5. 
  - 😄 Pronouns: She/Her
- - ⚡  Fun fact: Freelancers originally referred to self-employed, sword-wielding mercenaries: literally “free lancers.”
+ - ⚡  Fun fact about me: I am ambidextrous and can mirror-write with ease.
  
 <!--
 **anshupitlia/anshupitlia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
