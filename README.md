@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I am **Anshu Pitlia** an ex-thoughtworker working as *Software Engineer** at **IKEA**.
+I am **Anshu Pitlia** an ex-thoughtworker working as *Software Engineer* at **IKEA**.
 
  - 🔭 I’m currently working on Event Messaging platform.
  - ✍️ I'm also a writer/poet and you can read my views on [Facebook]( https://www.facebook.com/anshu.pitlia/), [Blogger](http://anshupitlia.blogspot.com/) or watch some of my videos on [Youtube](https://www.youtube.com/watch?v=6Ja0RWcgwoI)
